@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafxor&label=Profile%20views&color=0e75b6&style=flat" alt="hafxor" /> </p>
 
-- 🔭 I’m currently studying on **State Vocational High School 2 Pengasih**
+- 🔭 I’m currently exploring on **Cyber Security**
 
-- 🌱 I’m currently learning **X86_64 Assembly**
+- 🌱 I’m currently learning **X86_64 Assembly, Reverse Engineering and Binary Exploitation**
 
 - 📝 I regularly write articles on [https://medium.com/@adh1ka](https://medium.com/@adh1ka)
 
-- 💬 Ask me about **Desktop Application Development**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **hafizhadhi27@gmail.com**
 
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafxor&show_icons=true&locale=en" alt="hafxor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafxor&" alt="hafxor" /></p>
-
