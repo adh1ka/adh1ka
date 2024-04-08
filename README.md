@@ -24,8 +24,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@adh1ka&index=0&source=medium" alt="Layout with last medium posts"  />
   <img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@adh1ka&index=1&source=medium" alt="Layout with last medium posts"  />
+  <img src="https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@adh1ka&index=0&source=medium" alt="Layout with last medium posts"  />
 </div>
 
 ###
