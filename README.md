@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently exploring on **Mobile Pentest**
 
-- 🌱 I’m currently learning **Web and Binary Exploitation**
+- 🌱 I’m currently learning **Reverse Engineering and Binary Exploitation**
 
 <h3 align="left">My Latest Medium Articles</h3>
 <br clear="both">
