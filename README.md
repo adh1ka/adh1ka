@@ -1,4 +1,13 @@
 
+<h1 align="center">Hi there👋, I'm adh1ka</h1>
+<h3 align="center">I am adh1ka. I am undergraduate student of <b>Computer Engineeering EEPIS</b>. I love to learn anything about Cyber Security!.</h3>
+
+
+
+- 🔭 I’m currently exploring on **Mobile Pentest**
+
+- 🌱 I’m currently learning **Reverse Engineering and Binary Exploitation**
+
 <h3 align="left">My Latest Medium Articles</h3>
 <br clear="both">
 
