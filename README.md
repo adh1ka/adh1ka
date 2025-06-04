@@ -7,3 +7,6 @@
 - 🔭 I’m currently exploring on **Active Directory & Low-Level Security Stuff**
 - 🌱 I’m currently learning **Reverse Engineering and Binary Exploitation**
 -->
+
+![image](https://github.com/user-attachments/assets/38f7d8c6-07db-4fdf-af21-b12ac222cfbb)
+
